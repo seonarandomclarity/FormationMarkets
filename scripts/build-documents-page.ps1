@@ -6,7 +6,7 @@
 $ErrorActionPreference = 'Stop'
 
 $repoRoot = (Resolve-Path (Join-Path $PSScriptRoot '..')).Path
-$baseUrl  = 'https://github.com/seonarandomclarity/techdollar-data-room'
+$baseUrl  = 'https://github.com/seonarandomclarity/FormationMarkets'
 
 # Folder names and display titles are fixed. Listed in the order they appear on the page.
 $sections = @(
