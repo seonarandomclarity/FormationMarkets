@@ -1,4 +1,4 @@
-# Techdollar Investor Data Room
+# Formation Markets Investor Data Room
 
 A private GitHub repo used as the investor data room. Investors are collaborators who browse it on github.com:
 `README.md` is the home page and `DOCUMENTS.md` is the documents page.
